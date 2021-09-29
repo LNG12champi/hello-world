@@ -1,3 +1,3 @@
-පව
-Just another repository
--HI
+Micro.bit
+
+- Create Calculator
